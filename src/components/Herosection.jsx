@@ -8,5 +8,5 @@ function Herosection() {
     </div>
   );
 }
-    
+
 export default Herosection;
